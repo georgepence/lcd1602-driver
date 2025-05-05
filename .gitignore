@@ -3,3 +3,4 @@
 /examples/*/Cargo.lock
 /examples/*/target
 /examples/*/.vscode
+.idea
