@@ -3,3 +3,4 @@ target
 .vscode
 _setupenv.*
 openocd.cfg
+.idea
